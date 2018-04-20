@@ -1,0 +1,252 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Projects & Contests\\323 Ando\\Health Tracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-9.8.0.aar\\0ea9090098f8e59ad98c9f9ec89f31b6\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,316,447,560,666,772,861,956,1037,1177",
+                        "endColumns": "78,130,112,105,105,88,94,80,139,99",
+                        "endOffsets": "315,446,559,665,771,860,955,1036,1176,1276"
+                    },
+                    "to": {
+                        "startLines": "2,57,58,59,60,61,62,63,66,67",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,6738,6873,6990,7100,7210,7303,7402,7689,7833",
+                        "endColumns": "82,134,116,109,109,92,98,84,143,103",
+                        "endOffsets": "183,6868,6985,7095,7205,7298,7397,7482,7828,7932"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.8.0.aar\\df89a42c61063cf450cdfd2dad155298\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "298,375,470,557,669,757,868,975,1089,1188,1292,1378,1478,1579,1683,1763,1841,1920,2005,2104,2204,2305,2397,2491,2566,2669,2762,2865,3011,3141,3270,3369,3459,3562",
+                        "endColumns": "76,94,86,111,87,110,106,113,98,103,85,99,100,103,79,77,78,84,98,99,100,91,93,74,102,92,102,145,129,128,98,89,102,83",
+                        "endOffsets": "374,469,556,668,756,867,974,1088,1187,1291,1377,1477,1578,1682,1762,1840,1919,2004,2103,2203,2304,2396,2490,2565,2668,2761,2864,3010,3140,3269,3368,3458,3561,3645"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "188,269,368,459,575,667,782,893,1011,1114,1222,1312,1416,1521,1629,2095,2177,2260,2349,2452,2556,2661,2757,2855,2934,3041,3138,3245,3391,3525,3658,3761,3855,3962",
+                        "endColumns": "80,98,90,115,91,114,110,117,102,107,89,103,104,107,83,81,82,88,102,103,104,95,97,78,106,96,106,145,133,132,102,93,106,87",
+                        "endOffsets": "264,363,454,570,662,777,888,1006,1109,1217,1307,1411,1516,1624,1708,2172,2255,2344,2447,2551,2656,2752,2850,2929,3036,3133,3240,3386,3520,3653,3756,3850,3957,4045"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\5f4c9c98988e0c65f5a230f725e2fd56\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "222",
+                        "endOffsets": "507"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5114",
+                        "endColumns": "222",
+                        "endOffsets": "5332"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.8.0.aar\\a9de67b20a168f634fc4f1b2e739fac6\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "288,426,565",
+                        "endColumns": "137,138,100",
+                        "endOffsets": "425,564,665"
+                    },
+                    "to": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1713,1851,1990",
+                        "endColumns": "137,138,104",
+                        "endOffsets": "1846,1985,2090"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.8.0.aar\\6a92ad0aba726f775b7d94ba604b1b96\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "233,338",
+                        "endColumns": "104,88",
+                        "endOffsets": "337,426"
+                    },
+                    "to": {
+                        "startLines": "64,65",
+                        "startColumns": "4,4",
+                        "startOffsets": "7487,7596",
+                        "endColumns": "108,92",
+                        "endOffsets": "7591,7684"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.8.0.aar\\82088f1bf3f3ce4bd938c8c11693b8b8\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "240",
+                        "endColumns": "108",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "68",
+                        "startColumns": "4",
+                        "startOffsets": "7937",
+                        "endColumns": "112",
+                        "endOffsets": "8045"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\cff61d6557f40703c0791fce76892983\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,396,586,718,833,1063,1197,1327,1566,1682,1877,2012,2219,2397,2489,2587",
+                        "endColumns": "112,189,131,114,229,133,129,238,115,194,134,206,177,91,97,116",
+                        "endOffsets": "395,585,717,832,1062,1196,1326,1565,1681,1876,2011,2218,2396,2488,2586,2703"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,43,44,45,46,48,49,50,51,52,53,54,55,56",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4050,4167,4357,4493,4612,4842,4980,5337,5576,5696,5891,6030,6237,6419,6515,6617",
+                        "endColumns": "116,189,135,118,229,137,133,238,119,194,138,206,181,95,101,120",
+                        "endOffsets": "4162,4352,4488,4607,4837,4975,5109,5571,5691,5886,6025,6232,6414,6510,6612,6733"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Raadu\\Health Tracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-9.8.0.aar\\0ea9090098f8e59ad98c9f9ec89f31b6\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,316,447,560,666,772,861,956,1037,1177",
+                        "endColumns": "78,130,112,105,105,88,94,80,139,99",
+                        "endOffsets": "315,446,559,665,771,860,955,1036,1176,1276"
+                    },
+                    "to": {
+                        "startLines": "2,57,58,59,60,61,62,63,66,67",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,6738,6873,6990,7100,7210,7303,7402,7689,7833",
+                        "endColumns": "82,134,116,109,109,92,98,84,143,103",
+                        "endOffsets": "183,6868,6985,7095,7205,7298,7397,7482,7828,7932"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.8.0.aar\\df89a42c61063cf450cdfd2dad155298\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "298,375,470,557,669,757,868,975,1089,1188,1292,1378,1478,1579,1683,1763,1841,1920,2005,2104,2204,2305,2397,2491,2566,2669,2762,2865,3011,3141,3270,3369,3459,3562",
+                        "endColumns": "76,94,86,111,87,110,106,113,98,103,85,99,100,103,79,77,78,84,98,99,100,91,93,74,102,92,102,145,129,128,98,89,102,83",
+                        "endOffsets": "374,469,556,668,756,867,974,1088,1187,1291,1377,1477,1578,1682,1762,1840,1919,2004,2103,2203,2304,2396,2490,2565,2668,2761,2864,3010,3140,3269,3368,3458,3561,3645"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "188,269,368,459,575,667,782,893,1011,1114,1222,1312,1416,1521,1629,2095,2177,2260,2349,2452,2556,2661,2757,2855,2934,3041,3138,3245,3391,3525,3658,3761,3855,3962",
+                        "endColumns": "80,98,90,115,91,114,110,117,102,107,89,103,104,107,83,81,82,88,102,103,104,95,97,78,106,96,106,145,133,132,102,93,106,87",
+                        "endOffsets": "264,363,454,570,662,777,888,1006,1109,1217,1307,1411,1516,1624,1708,2172,2255,2344,2447,2551,2656,2752,2850,2929,3036,3133,3240,3386,3520,3653,3756,3850,3957,4045"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\5f4c9c98988e0c65f5a230f725e2fd56\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "222",
+                        "endOffsets": "507"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5114",
+                        "endColumns": "222",
+                        "endOffsets": "5332"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.8.0.aar\\a9de67b20a168f634fc4f1b2e739fac6\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "288,426,565",
+                        "endColumns": "137,138,100",
+                        "endOffsets": "425,564,665"
+                    },
+                    "to": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1713,1851,1990",
+                        "endColumns": "137,138,104",
+                        "endOffsets": "1846,1985,2090"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.8.0.aar\\6a92ad0aba726f775b7d94ba604b1b96\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "233,338",
+                        "endColumns": "104,88",
+                        "endOffsets": "337,426"
+                    },
+                    "to": {
+                        "startLines": "64,65",
+                        "startColumns": "4,4",
+                        "startOffsets": "7487,7596",
+                        "endColumns": "108,92",
+                        "endOffsets": "7591,7684"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.8.0.aar\\82088f1bf3f3ce4bd938c8c11693b8b8\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "240",
+                        "endColumns": "108",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "68",
+                        "startColumns": "4",
+                        "startOffsets": "7937",
+                        "endColumns": "112",
+                        "endOffsets": "8045"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\cff61d6557f40703c0791fce76892983\\res\\values-ne\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,396,586,718,833,1063,1197,1327,1566,1682,1877,2012,2219,2397,2489,2587",
+                        "endColumns": "112,189,131,114,229,133,129,238,115,194,134,206,177,91,97,116",
+                        "endOffsets": "395,585,717,832,1062,1196,1326,1565,1681,1876,2011,2218,2396,2488,2586,2703"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,43,44,45,46,48,49,50,51,52,53,54,55,56",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4050,4167,4357,4493,4612,4842,4980,5337,5576,5696,5891,6030,6237,6419,6515,6617",
+                        "endColumns": "116,189,135,118,229,137,133,238,119,194,138,206,181,95,101,120",
+                        "endOffsets": "4162,4352,4488,4607,4837,4975,5109,5571,5691,5886,6025,6232,6414,6510,6612,6733"
+                    }
+                }
+            ]
+        }
+    ]
+}

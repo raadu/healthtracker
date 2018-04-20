@@ -1,0 +1,140 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Projects & Contests\\323 Ando\\Health Tracker\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\db4dcd1793ee267330ae00f0dbd2d84a\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "933",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1110"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.8.0.aar\\df89a42c61063cf450cdfd2dad155298\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "183,271,358,453",
+                        "endColumns": "87,86,94,90",
+                        "endOffsets": "270,357,452,543"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,420,511,610",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "415,506,605,700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\f31bbaac3af6545df3d277f15030abcb\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "705,780,858",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "775,853,928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\86defb949cf450cc94fd74b6c12742f3\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Raadu\\Health Tracker\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\db4dcd1793ee267330ae00f0dbd2d84a\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "933",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1110"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.8.0.aar\\df89a42c61063cf450cdfd2dad155298\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "183,271,358,453",
+                        "endColumns": "87,86,94,90",
+                        "endOffsets": "270,357,452,543"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,420,511,610",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "415,506,605,700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\f31bbaac3af6545df3d277f15030abcb\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "705,780,858",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "775,853,928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Raadu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\86defb949cf450cc94fd74b6c12742f3\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

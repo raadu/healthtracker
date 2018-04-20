@@ -1,0 +1,893 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\db4dcd1793ee267330ae00f0dbd2d84a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\362f776e073041e6a0e68e851ae990bf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\a9de67b20a168f634fc4f1b2e739fac6\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\f31bbaac3af6545df3d277f15030abcb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\86defb949cf450cc94fd74b6c12742f3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\bb223b1d805f12cae3d2616f7bb69edd\AndroidManifest.xml:16:1-21:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\025623cbb602aab3943f1b55949f6b7f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-core-9.8.0.aar\c50cc42e1afbfb1385afccaaca4d2032\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4270ac6a14087b3fee5de36bc14dd1cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\1b1aff63a13b91565640fcfc0b03b536\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.8.0.aar\950da4f066495e1a9f01d400dd48676b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\0ea9090098f8e59ad98c9f9ec89f31b6\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.8.0.aar\2b0bcde40f62de4562786e6133d4bfc2\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.8.0.aar\65aaeae6dd72d57091d1f58b89086284\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\ddd3f69dae3444794c0ff391e1393a90\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\e5567b5dad86b09fab148a9da8aeeab6\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\f15d63033b07542a73e9a862a2f1b6f2\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\c9c455cb304756d72506618ed5b230a9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\c0e3e57eccdf3e180361f849166e2d37\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\5a34fd2207d53655ee5600211c0c71de\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\139894b52444d7e7b4713b25ab60abf0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.8.0.aar\82088f1bf3f3ce4bd938c8c11693b8b8\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\7319c0d9f120fb7528baabd233e14dc9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.8.0.aar\3d190aeccff14bea2f26d62156cf0464\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\b4cf6219934f460c536a0ae1a5ad8946\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\6a92ad0aba726f775b7d94ba604b1b96\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\703d8e093b97a65f974f02bbd8ca98ea\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\28a087d3e2b768932a9772e87aa13c6c\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\e09e227c6e438ba5adeb687b8843400d\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\72e2fe9a80fb2004ab6a157403ef73ab\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\527e05a25d9472b44b35aed89e81a26c\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\9446c88be188b6f7df2d0bc0faec89e0\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\f46444397bce0cc3789b56ec9e868d8d\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\75256d8315c17e29d83db186d150ea64\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\fbdaa225233cfea5e3a871fd79ccffa6\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\a6fb11ff8906f464e9be7ee54d32b0af\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\f51c8bf072cf86611fb1c71de249ae0f\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\d49b854ac3a44cea7dbd039c4db8dbf3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ce6d3b51ab6d1d34122675e0e3e024a0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\90cf222523cf0014905c94cbf892ca36\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4477c2399d3c2ecedaff258e2a5b2ff9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\bbb9f57918dd9cf04f89857ef850f43d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\e4e58201c61c73618158ddab190f6a5d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e317c4be4bdf0998d1e8430bfd6fb5ef\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0f45ab3d6deef971d33421fcbad59cfd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b827695e20570e27bf9a004b2406b89a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3976b0014fefb1638e5ba3ab507372bb\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+	package
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:1-178:12
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:4:5-43
+uses-permission#com.androidtutorialpoint.mymapsappsdirection.permission.MAPS_RECEIVE
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:6:5-108
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:6:22-105
+uses-permission#android.permission.INTERNET
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:10:5-98
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:10:22-95
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:14:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:18:5-176:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\db4dcd1793ee267330ae00f0dbd2d84a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\db4dcd1793ee267330ae00f0dbd2d84a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\362f776e073041e6a0e68e851ae990bf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\362f776e073041e6a0e68e851ae990bf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\a9de67b20a168f634fc4f1b2e739fac6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\a9de67b20a168f634fc4f1b2e739fac6\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\f31bbaac3af6545df3d277f15030abcb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\f31bbaac3af6545df3d277f15030abcb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\86defb949cf450cc94fd74b6c12742f3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\86defb949cf450cc94fd74b6c12742f3\AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\bb223b1d805f12cae3d2616f7bb69edd\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\bb223b1d805f12cae3d2616f7bb69edd\AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\025623cbb602aab3943f1b55949f6b7f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\025623cbb602aab3943f1b55949f6b7f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-core-9.8.0.aar\c50cc42e1afbfb1385afccaaca4d2032\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-core-9.8.0.aar\c50cc42e1afbfb1385afccaaca4d2032\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\1b1aff63a13b91565640fcfc0b03b536\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\1b1aff63a13b91565640fcfc0b03b536\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\ddd3f69dae3444794c0ff391e1393a90\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\ddd3f69dae3444794c0ff391e1393a90\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\e5567b5dad86b09fab148a9da8aeeab6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\e5567b5dad86b09fab148a9da8aeeab6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\f15d63033b07542a73e9a862a2f1b6f2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\f15d63033b07542a73e9a862a2f1b6f2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\c9c455cb304756d72506618ed5b230a9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\c9c455cb304756d72506618ed5b230a9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\c0e3e57eccdf3e180361f849166e2d37\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\c0e3e57eccdf3e180361f849166e2d37\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\5a34fd2207d53655ee5600211c0c71de\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\5a34fd2207d53655ee5600211c0c71de\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\139894b52444d7e7b4713b25ab60abf0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\139894b52444d7e7b4713b25ab60abf0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\7319c0d9f120fb7528baabd233e14dc9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\7319c0d9f120fb7528baabd233e14dc9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\b4cf6219934f460c536a0ae1a5ad8946\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\b4cf6219934f460c536a0ae1a5ad8946\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\6a92ad0aba726f775b7d94ba604b1b96\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\6a92ad0aba726f775b7d94ba604b1b96\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\703d8e093b97a65f974f02bbd8ca98ea\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\703d8e093b97a65f974f02bbd8ca98ea\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\28a087d3e2b768932a9772e87aa13c6c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\28a087d3e2b768932a9772e87aa13c6c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\e09e227c6e438ba5adeb687b8843400d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\e09e227c6e438ba5adeb687b8843400d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\72e2fe9a80fb2004ab6a157403ef73ab\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\72e2fe9a80fb2004ab6a157403ef73ab\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\527e05a25d9472b44b35aed89e81a26c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\527e05a25d9472b44b35aed89e81a26c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\fbdaa225233cfea5e3a871fd79ccffa6\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\fbdaa225233cfea5e3a871fd79ccffa6\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\f51c8bf072cf86611fb1c71de249ae0f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\f51c8bf072cf86611fb1c71de249ae0f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\d49b854ac3a44cea7dbd039c4db8dbf3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\d49b854ac3a44cea7dbd039c4db8dbf3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ce6d3b51ab6d1d34122675e0e3e024a0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ce6d3b51ab6d1d34122675e0e3e024a0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\90cf222523cf0014905c94cbf892ca36\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\90cf222523cf0014905c94cbf892ca36\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4477c2399d3c2ecedaff258e2a5b2ff9\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4477c2399d3c2ecedaff258e2a5b2ff9\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\e4e58201c61c73618158ddab190f6a5d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\e4e58201c61c73618158ddab190f6a5d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e317c4be4bdf0998d1e8430bfd6fb5ef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e317c4be4bdf0998d1e8430bfd6fb5ef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0f45ab3d6deef971d33421fcbad59cfd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0f45ab3d6deef971d33421fcbad59cfd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b827695e20570e27bf9a004b2406b89a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b827695e20570e27bf9a004b2406b89a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3976b0014fefb1638e5ba3ab507372bb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3976b0014fefb1638e5ba3ab507372bb\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:21:9-39
+	android:icon
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:20:9-46
+	android:allowBackup
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.threemusketeers.healthmaster.splash
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:26:13-43
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:25:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.threemusketeers.healthmaster.MainActivity
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:35:9-39:59
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:37:13-43
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.threemusketeers.healthmaster.login
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:40:9-43:66
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:41:13-34
+activity#com.threemusketeers.healthmaster.signup
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:44:9-47:66
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:46:13-49
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:45:13-35
+activity#com.threemusketeers.healthmaster.forgotpassword
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:48:9-51:66
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:51:13-63
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:49:13-43
+activity#com.threemusketeers.healthmaster.userinfo
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:56:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:55:13-48
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:54:13-38
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:53:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:57:13-59:42
+	android:value
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:59:17-39
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:58:17-63
+activity#com.threemusketeers.healthmaster.reminder
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:65:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:64:13-55
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:63:13-42
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:62:13-37
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:79:9-81:55
+	android:value
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:81:13-52
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:80:13-58
+activity#com.threemusketeers.healthmaster.MapsActivity
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:83:9-85:59
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:85:13-56
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:84:13-41
+activity#com.threemusketeers.healthmaster.Profile
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:86:9-94:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:90:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:89:13-55
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:87:13-36
+receiver#com.threemusketeers.healthmaster.NotifyBreakfast
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:97:9-101:20
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:97:19-50
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:98:13-100:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:99:17-79
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:99:25-76
+receiver#com.threemusketeers.healthmaster.NotificationBreakfast
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:102:9-59
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:102:19-56
+receiver#com.threemusketeers.healthmaster.NotifyLunch
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:105:19-46
+receiver#com.threemusketeers.healthmaster.NotificationLunch
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:110:9-55
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:110:19-52
+receiver#com.threemusketeers.healthmaster.NotifySnacks
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:113:9-117:20
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:113:19-47
+receiver#com.threemusketeers.healthmaster.NotificationSnacks
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:118:9-56
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:118:19-53
+receiver#com.threemusketeers.healthmaster.NotifyDinner
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:121:9-125:20
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:121:19-47
+receiver#com.threemusketeers.healthmaster.NotificationDinner
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:126:9-56
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:126:19-53
+meta-data#android.app.default_searchable
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:128:9-130:46
+	android:value
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:130:13-43
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:129:13-58
+activity#com.threemusketeers.healthmaster.FoodPlan
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:132:9-140:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:136:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:135:13-55
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:134:13-38
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:133:13-37
+activity#com.threemusketeers.healthmaster.Details
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:141:9-149:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:145:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:144:13-51
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:143:13-38
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:142:13-36
+activity#com.threemusketeers.healthmaster.ImageListView
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:151:9-159:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:155:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:154:13-55
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:153:13-40
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:152:13-42
+activity#com.threemusketeers.healthmaster.TipsDetails
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:161:9-169:20
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:165:13-49
+	android:parentActivityName
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:164:13-56
+	android:label
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:163:13-40
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:162:13-40
+activity#com.threemusketeers.healthmaster.WelcomeActivity
+ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:171:9-174:59
+	android:screenOrientation
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:173:13-49
+	android:theme
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:174:13-56
+	android:name
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml:172:13-44
+uses-sdk
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\db4dcd1793ee267330ae00f0dbd2d84a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\db4dcd1793ee267330ae00f0dbd2d84a\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\362f776e073041e6a0e68e851ae990bf\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-9.8.0.aar\362f776e073041e6a0e68e851ae990bf\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\a9de67b20a168f634fc4f1b2e739fac6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.8.0.aar\a9de67b20a168f634fc4f1b2e739fac6\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\f31bbaac3af6545df3d277f15030abcb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-24.0.0.aar\f31bbaac3af6545df3d277f15030abcb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\86defb949cf450cc94fd74b6c12742f3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\86defb949cf450cc94fd74b6c12742f3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\bb223b1d805f12cae3d2616f7bb69edd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.8.0.aar\bb223b1d805f12cae3d2616f7bb69edd\AndroidManifest.xml:17:5-42
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\025623cbb602aab3943f1b55949f6b7f\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\025623cbb602aab3943f1b55949f6b7f\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-core-9.8.0.aar\c50cc42e1afbfb1385afccaaca4d2032\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-core-9.8.0.aar\c50cc42e1afbfb1385afccaaca4d2032\AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4270ac6a14087b3fee5de36bc14dd1cc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\4270ac6a14087b3fee5de36bc14dd1cc\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\1b1aff63a13b91565640fcfc0b03b536\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.8.0.aar\1b1aff63a13b91565640fcfc0b03b536\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.8.0.aar\950da4f066495e1a9f01d400dd48676b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.8.0.aar\950da4f066495e1a9f01d400dd48676b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\0ea9090098f8e59ad98c9f9ec89f31b6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\0ea9090098f8e59ad98c9f9ec89f31b6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.8.0.aar\c61e2c20c6abc5e4b0361624714e103f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.8.0.aar\2b0bcde40f62de4562786e6133d4bfc2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.8.0.aar\2b0bcde40f62de4562786e6133d4bfc2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.8.0.aar\45adcc40b6c2448284690c4f4674cb74\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.8.0.aar\65aaeae6dd72d57091d1f58b89086284\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.8.0.aar\65aaeae6dd72d57091d1f58b89086284\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\ddd3f69dae3444794c0ff391e1393a90\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\ddd3f69dae3444794c0ff391e1393a90\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\e5567b5dad86b09fab148a9da8aeeab6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-config-9.8.0.aar\e5567b5dad86b09fab148a9da8aeeab6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\f15d63033b07542a73e9a862a2f1b6f2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.8.0.aar\f15d63033b07542a73e9a862a2f1b6f2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\c9c455cb304756d72506618ed5b230a9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-games-9.8.0.aar\c9c455cb304756d72506618ed5b230a9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\c0e3e57eccdf3e180361f849166e2d37\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.8.0.aar\c0e3e57eccdf3e180361f849166e2d37\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\5a34fd2207d53655ee5600211c0c71de\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.8.0.aar\5a34fd2207d53655ee5600211c0c71de\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\139894b52444d7e7b4713b25ab60abf0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\139894b52444d7e7b4713b25ab60abf0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.8.0.aar\82088f1bf3f3ce4bd938c8c11693b8b8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.8.0.aar\82088f1bf3f3ce4bd938c8c11693b8b8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\7319c0d9f120fb7528baabd233e14dc9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.8.0.aar\7319c0d9f120fb7528baabd233e14dc9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.8.0.aar\3d190aeccff14bea2f26d62156cf0464\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.8.0.aar\3d190aeccff14bea2f26d62156cf0464\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\b4cf6219934f460c536a0ae1a5ad8946\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-location-9.8.0.aar\b4cf6219934f460c536a0ae1a5ad8946\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\6a92ad0aba726f775b7d94ba604b1b96\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-places-9.8.0.aar\6a92ad0aba726f775b7d94ba604b1b96\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.8.0.aar\e23ec39634b30589808a6e17eda8828a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\703d8e093b97a65f974f02bbd8ca98ea\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.8.0.aar\703d8e093b97a65f974f02bbd8ca98ea\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\28a087d3e2b768932a9772e87aa13c6c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.8.0.aar\28a087d3e2b768932a9772e87aa13c6c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\e09e227c6e438ba5adeb687b8843400d\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.8.0.aar\e09e227c6e438ba5adeb687b8843400d\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\72e2fe9a80fb2004ab6a157403ef73ab\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.8.0.aar\72e2fe9a80fb2004ab6a157403ef73ab\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\527e05a25d9472b44b35aed89e81a26c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.8.0.aar\527e05a25d9472b44b35aed89e81a26c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.8.0.aar\1b274dbe54c9e44e7265ae7e5171f657\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\9446c88be188b6f7df2d0bc0faec89e0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\9446c88be188b6f7df2d0bc0faec89e0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\f46444397bce0cc3789b56ec9e868d8d\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\f46444397bce0cc3789b56ec9e868d8d\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\75256d8315c17e29d83db186d150ea64\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\75256d8315c17e29d83db186d150ea64\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\fbdaa225233cfea5e3a871fd79ccffa6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\fbdaa225233cfea5e3a871fd79ccffa6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\a6fb11ff8906f464e9be7ee54d32b0af\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\a6fb11ff8906f464e9be7ee54d32b0af\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\f51c8bf072cf86611fb1c71de249ae0f\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\f51c8bf072cf86611fb1c71de249ae0f\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\d49b854ac3a44cea7dbd039c4db8dbf3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\palette-v7-24.0.0.aar\d49b854ac3a44cea7dbd039c4db8dbf3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ce6d3b51ab6d1d34122675e0e3e024a0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ce6d3b51ab6d1d34122675e0e3e024a0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\90cf222523cf0014905c94cbf892ca36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\90cf222523cf0014905c94cbf892ca36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4477c2399d3c2ecedaff258e2a5b2ff9\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\4477c2399d3c2ecedaff258e2a5b2ff9\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\bbb9f57918dd9cf04f89857ef850f43d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\bbb9f57918dd9cf04f89857ef850f43d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\e4e58201c61c73618158ddab190f6a5d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\e4e58201c61c73618158ddab190f6a5d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e317c4be4bdf0998d1e8430bfd6fb5ef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\e317c4be4bdf0998d1e8430bfd6fb5ef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0f45ab3d6deef971d33421fcbad59cfd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0f45ab3d6deef971d33421fcbad59cfd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b827695e20570e27bf9a004b2406b89a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\b827695e20570e27bf9a004b2406b89a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3976b0014fefb1638e5ba3ab507372bb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\3976b0014fefb1638e5ba3ab507372bb\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\86defb949cf450cc94fd74b6c12742f3\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		ADDED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Projects & Contests\323 Ando\Health Tracker\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.8.0.aar\df89a42c61063cf450cdfd2dad155298\AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.8.0.aar\c7a0794a655d8068da3ce321e62075d5\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.8.0.aar\099745482545b958511d8004959ef6b1\AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.8.0.aar\5a90249d083fe6544911ffc8999ca6f9\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.8.0.aar\01993e044753618a50908d6c85ca7ba7\AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.8.0.aar\82bcd78ce7e5d7aa82345964df20446c\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\cff61d6557f40703c0791fce76892983\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\231a0b0fa8e579ffab2e237bcfcc4ab5\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.8.0.aar\bcf91fa86349f5d923b3dd785b5621ab\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\015ec4ccef9a19daafb2e2b87b2668bb\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\8aa48e6dcbfbf32be21327a6320ef5b2\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:24:17-71
+permission#com.threemusketeers.healthmaster.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:26:22-76
+uses-permission#com.threemusketeers.healthmaster.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:31:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.threemusketeers.healthmaster
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:34:27-58
+category#com.threemusketeers.healthmaster
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\fe8fc7e8ec9be06e9399353723e62724\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\d49c3d0a906111d6ef30f47f742a22e4\AndroidManifest.xml:6:79-124
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\1dc6576128f150d1c56bd9035260a724\AndroidManifest.xml:26:19-91
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Raadu\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\5f4c9c98988e0c65f5a230f725e2fd56\AndroidManifest.xml:20:20-65
